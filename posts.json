@@ -1,17 +1,15 @@
 [
   {
-    "title": "First Test Post",
+    "title": "First Post",
     "date": "2026-05-27",
-    "description": "Testing the blog system.",
+    "description": "Test",
     "file": "testpost.md"
-  }
-],
+  },
 
-[
   {
-    "title": "Is this working?",
-    "date": "2026-05-27",
-    "description": "testing... testing!!",
+    "title": "Second Post",
+    "date": "2026-05-28",
+    "description": "Another test",
     "file": "working.md"
   }
 ]

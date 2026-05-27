@@ -6,3 +6,12 @@
     "file": "testpost.md"
   }
 ]
+
+[
+  {
+    "title": "Is this working?",
+    "date": "2026-05-27",
+    "description": "testing... testing!!",
+    "file": "working.md"
+  }
+]

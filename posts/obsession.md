@@ -1,0 +1,1 @@
+ok so i just finished watching obsession and it fucking RULED.... like nobody told me it was gonna be that awesome. me and sarah are tight. but my only gripe is like why does one wish willow make you ai slop :/

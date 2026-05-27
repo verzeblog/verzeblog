@@ -1,15 +1,15 @@
 [
   {
+        "title": "Second Post",
+    "date": "2026-05-28",
+    "description": "Another test",
+    "file": "working.md"
+  },
+
+  {
     "title": "First Post",
     "date": "2026-05-27",
     "description": "Test",
     "file": "testpost.md"
-  },
-
-  {
-    "title": "Second Post",
-    "date": "2026-05-28",
-    "description": "Another test",
-    "file": "working.md"
   }
 ]
